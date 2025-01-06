@@ -4,7 +4,7 @@ const CounterDisplay=() =>{
     return (
 
     <>
-    <h1>{counter}</h1>
+    <h1>Cr Ronaldo :{counter}</h1>
     </>
     )
 }
